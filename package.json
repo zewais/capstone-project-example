@@ -1,0 +1,26 @@
+{
+  "name": "capstone-project-example",
+  "version": "1.0.0",
+  "description": "Capstone",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zewais/capstone-project-example.git"
+  },
+  "keywords": [
+    "Capstone",
+    "example"
+  ],
+  "author": "Ziad Ewais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zewais/capstone-project-example/issues"
+  },
+  "homepage": "https://github.com/zewais/capstone-project-example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
